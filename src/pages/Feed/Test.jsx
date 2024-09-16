@@ -7,9 +7,9 @@ import ErrorDisplay from '../../components/UI/ErrorDisplay';
 import httpService from '../../services/http.service';
 import DetailPanel from './detailPanel/DetailPanel';
 import { Typography, Chip, Box } from '@mui/material';
-import Filters from '../../components/Filters';
+import TopToolbarCustomActions from "./submission/TopToolbarCustomActions";
+// import Filters from '../../components/Filters';
 import { data as data2 } from './makeData';
-import TopToolbarCustomActions from './submission/TopToolbarCustomActions';
 
 const LoaderContainer = ({ percentage }) => (
   <div style={{ textAlign: 'center', padding: '20px' }}>
