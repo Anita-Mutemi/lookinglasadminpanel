@@ -1,6 +1,6 @@
 import { Card, Tag, Typography } from 'antd';
 import { NoDataText } from './NoData';
-import Signals from '../../../components/ui/ProjectSignals';
+import Signals from '../../../components/UI/ProjectSignals';
 import moment from 'moment';
 const { Text } = Typography;
 
