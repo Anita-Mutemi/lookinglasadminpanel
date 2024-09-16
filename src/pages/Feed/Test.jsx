@@ -7,7 +7,7 @@ import ErrorDisplay from '../../components/UI/ErrorDisplay';
 import httpService from '../../services/http.service';
 import DetailPanel from './detailPanel/DetailPanel';
 import { Typography, Chip, Box } from '@mui/material';
-import TopToolbarCustomActions from './submission/TopToolbarCustomActions';
+import TopToolbarCustomActions from './submission/TopToolBarCustomActions';
 // import Filters from '../../components/Filters';
 import { data as data2 } from './makeData';
 
